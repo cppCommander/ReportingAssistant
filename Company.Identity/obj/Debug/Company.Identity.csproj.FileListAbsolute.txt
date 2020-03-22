@@ -1,0 +1,3 @@
+C:\Users\Bartek\source\repos\ReportingAssistantExercise\Company.Identity\obj\Debug\Company.Identity.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\ReportingAssistantExercise\Company.Identity\obj\Debug\Company.Identity.IdentityMigrations.Update.resources
+C:\Users\Bartek\source\repos\ReportingAssistantExercise\Company.Identity\obj\Debug\Company.Identity.csproj.GenerateResource.cache
